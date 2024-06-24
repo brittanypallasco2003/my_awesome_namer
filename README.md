@@ -1,16 +1,8 @@
 # my_awesome_namer
 
-A new Flutter project.
+Descarga .apk 
+[APK](build\app\outputs\flutter-apk\app-release.apk)
 
-## Getting Started
+Badge
+![image](https://github.com/brittanypallasco2003/my_awesome_namer/assets/117743650/10c3063a-95ec-4f8a-b0ae-f0f8b3ff72f1)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
